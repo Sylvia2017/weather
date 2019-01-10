@@ -1,0 +1,17 @@
+{
+    "name": "sylvia\/weather",
+    "description": "My first package was created by studing overtrue\/weather",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sylvia",
+            "email": "xinyu_yuan@163.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Sylvia\\Weather\\": "src"
+        }
+    }
+}
